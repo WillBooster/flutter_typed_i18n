@@ -1,0 +1,5 @@
+name: flutter_typed_i18n
+version: 0.0.1
+author: WillBooster LLC <contact@willbooster.com>
+description: A library that generates Dart classes for i18n from YAML files.
+homepage: https://github.com/WillBooster/flutter_typed_i18n
