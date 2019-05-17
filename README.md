@@ -1,0 +1,1 @@
+# flutter_typed_i18n
